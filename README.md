@@ -1,7 +1,9 @@
 ##                                                        Zopify v1.0
-**Zopify** is an open-source, lightweight compression engine built in C++. It aims to provide a fast and transparent way to archive data with a classic, distraction-free Windows interface.
+**Zopad** is an open-source ..
 
-![Zopify Logo](logo.png)
+<p align="center">
+  <img src="logo.png" width="120" />
+</p>
 
 ## Key Features
 
