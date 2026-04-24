@@ -1,4 +1,4 @@
-##                                                        Zopify v1.0
+##                                                        Zopad v1.0
 **Zopad** is an open-source ..
 
 <p align="center">
